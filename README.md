@@ -1,7 +1,7 @@
 # Projeto: Jogo do Número Secreto
 
 ## O jogo do Número Secreto é um projeto desenvolvido utilizando JavaScript, HTML e CSS. O objetivo do jogo é que o jogador adivinhe um número secreto dentro de um intervalo especificado.
-![Imagem do jogo](https://github.com/dyonneEberty/jogo-do-numero-secreto/blob/main/img/numSecreto.png?raw=true)
+![Imagem do jogo](https://github.com/dyonneEberty/jogo-do-numero-secreto/blob/main/src/img/numSecreto.png?raw=true)
 ### Funcionalidades:
 
   Interface Amigável: O jogo possui uma interface simples e intuitiva, com elementos HTML e estilos CSS que proporcionam uma experiência agradável ao usuário.
