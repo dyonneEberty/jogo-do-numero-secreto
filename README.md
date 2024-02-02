@@ -26,7 +26,7 @@
 
 ## Como Jogar:
 
-  Abra o [jogo](https://jogo-do-numero-secreto-ashen-ten.vercel.app/") em seu navegador.
+  Abra o [jogo](https://jogo-do-numero-secreto-ashen-ten.vercel.app/) em seu navegador.
   Informe um número no campo de entrada e pressione o botão de "Chutar".
   O jogo fornecerá um feedback indicando se o número informado é maior, menor ou igual ao número secreto.
    Continue a adivinhar até encontrar o número secreto.
